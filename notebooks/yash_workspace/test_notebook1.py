@@ -3,7 +3,3 @@
 
 # COMMAND ----------
 
-"Hello Again"
-
-# COMMAND ----------
-
